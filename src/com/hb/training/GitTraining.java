@@ -7,6 +7,8 @@ public class GitTraining {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Bonjour git:"+id);
+		
+		// a comment.
 
 	}
 	
